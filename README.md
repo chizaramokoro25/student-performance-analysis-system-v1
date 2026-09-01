@@ -1,7 +1,7 @@
-# System-Performance-Analysis-System-v1
+# Student-Performance-Analysis-System-v1
 A data analysis project built in Excel to anzlyze and visualise student performance.
 
-This project is an Excel-based Student Performance Analysis System designed to organise, analyse and visualise student performace. The project uses automated calculations such as averages, grades, pass/fails, rankings while providing a dashboard that summarises KPI metrics
+This project is an Excel-based Student Performance Analysis System designed to organise, analyse and visualise student performance. The project uses automated calculations such as averages, grades, pass/fails, rankings while providing a dashboard that summarises KPI metrics.
 
 FEATURES
 - Student score management
@@ -21,3 +21,13 @@ SKILLS DEMONSTRATED
 - Data Analysis
 
 WORKBOOK STRUCTURE
+Student Scores
+contains student records, subject scores, averages, grades, pass/fail status and rankings
+
+Dashboard
+- Total Students
+- Highest Average
+- Lowest Average
+- Top Student
+- Pass Rate
+- Fail Rate
