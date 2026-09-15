@@ -21,6 +21,7 @@ SKILLS DEMONSTRATED
 - Data Analysis
 
 WORKBOOK STRUCTURE
+
 Student Scores
 - Student records
 - Subject scores
