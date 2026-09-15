@@ -22,7 +22,12 @@ SKILLS DEMONSTRATED
 
 WORKBOOK STRUCTURE
 Student Scores
-contains student records, subject scores, averages, grades, pass/fail status and rankings
+- Student records
+- Subject scores
+- Averages
+- Grades
+- Pass/fail status
+- Rankings
 
 Dashboard
 - Total Students
