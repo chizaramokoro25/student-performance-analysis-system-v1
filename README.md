@@ -37,3 +37,6 @@ Dashboard
 - Top Student
 - Pass Rate
 - Fail Rate
+
+Student Search 
+- allows users to enter a Student ID and automatically retrieve the student's information
