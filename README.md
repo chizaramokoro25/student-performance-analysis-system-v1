@@ -40,3 +40,9 @@ Dashboard
 
 Student Search 
 - allows users to enter a Student ID and automatically retrieve the student's information
+
+Pivot Analysis
+- Pivot Table
+- Pivot Charts
+- Slicers
+- Interactive Reporting
