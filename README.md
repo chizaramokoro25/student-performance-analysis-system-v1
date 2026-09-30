@@ -46,3 +46,11 @@ Pivot Analysis
 - Pivot Charts
 - Slicers
 - Interactive Reporting
+
+Project Goals 
+- analyse student academic performance
+- calculate and summarise key performance metrics
+- use Pivot Tables and Pivot Charts to explore datasets from different perspectives
+- use Slicers to create interactive reporting and allow users filter results dynamically
+- Create a Student Search feature that allows users to retrieve individual student information using a Student ID
+- Develop practical Excel data analysis and reporting skils through a complete end to end project
